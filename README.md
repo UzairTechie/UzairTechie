@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# 💫 About Me:
+💫 About Me:
 Computer science undergraduate building software with Java, C++, Python, and SQL. Applies algorithmic problem-solving and object-oriented programming to coursework and technical projects. Uses Git and Linux-based workflows to write, test, and refine code for entry-level software engineering roles.
 
 
